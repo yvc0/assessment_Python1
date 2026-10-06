@@ -1,5 +1,6 @@
 ## Assessment Python, Varaibles, operators, data types, data handling, conditional statements 
---
+
+---
 
 1.Accept an integer and check whether it is even or odd.
 
@@ -11,7 +12,7 @@
 
 5.Accept two numbers and an operator (+,-,*,/).perform the selected operation and display the result.
 
---
+---
 
 
 6.Accept temperature in celsius.Display hot if above 35,Normal if 25-35,cool if 15-25 and cold if below 15.
